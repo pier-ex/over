@@ -1,0 +1,182 @@
+* {
+    margin: 0;    
+    padding: 0;     
+    box-sizing: border-box ;
+    
+}
+
+
+header h2,
+#regi h2, section h3, .vem {
+        font-family: "Matemasie", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+header
+{       
+    padding: 16px;            
+    background-color: #000000;  
+    color: rgb(106, 28, 250);          
+}
+
+header nav li {
+    display: inline;
+    margin-left: 16px; 
+    font-size: 18px;
+}
+
+
+.container,
+section .register, .vem  {            
+    max-width: 1366px;  
+    width: 100%; 
+    margin: 0 auto;       
+}   
+
+
+header nav li a {       
+    color: rgb(106, 28, 250);        
+    text-decoration: none;
+}
+
+
+
+header .container,
+section .container,
+section .container img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.fachada {
+    height: 350px;
+    margin-top: 20px;
+}
+
+.logo-list img {
+    height: 50px;
+    
+}
+
+.logo-list li {
+    
+    display: inline;
+    margin-left: 12px;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+    
+}
+
+section h2 {
+    margin-bottom: 16px;
+}
+
+
+section p {
+    margin-bottom: 8px;
+}
+
+.fachada {
+    margin-right: 20px;
+}
+
+.cmt {
+    height: 350px;
+    
+    
+}
+
+section .container {
+    
+    justify-content: flex-end;
+}
+
+
+.clç {
+    height: 350px;
+}
+
+
+.register, .vem {
+    text-align: center;
+    color: rgb(106, 28, 250);
+    background-color: #000000;
+    padding: 5px;
+}
+
+#regi-ct .container {
+    display: block;
+}
+
+
+section h3 {
+    color:rgb(106, 28, 250) ;
+    
+}
+
+
+form textarea {
+    resize: none;
+    height: 150px;
+    width: 13%;
+}
+
+form input {
+    width: 13%;
+}
+
+form button {
+    padding: 7px;
+    margin-left: 61px;
+    margin-top: 6px;
+    background-color: #000000;
+    color:rgb(106, 28, 250) ;
+    border: none;
+    cursor: pointer;
+
+}
+
+
+.vem {
+    text-decoration: none;
+    padding: 15px;
+    
+}
+
+
+section .dire {
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
